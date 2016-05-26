@@ -14,7 +14,6 @@ public class prime_number {
             }
              if (count == 2) {
                  System.out.println(k+" ");
-
              }
         }
     }
